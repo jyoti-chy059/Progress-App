@@ -3,9 +3,9 @@
 All the source code is present in src folder.
 
 
-## Steps TO Run the application
+## Steps To Run the application
 
-1. clone the application.
+ 1. clone the application.
 
 `git clone https://github.com/jyoti-chy059/Progress-App.git`
 
