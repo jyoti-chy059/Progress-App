@@ -2,6 +2,10 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
 
+#NPM install
+
+Do the `npm install` after cloning the application.
+
 
 ## Development server
 
